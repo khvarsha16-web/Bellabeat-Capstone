@@ -1,4 +1,4 @@
-# Bellabe# Google Data Analytics Capstone – Bellabeat Smart Device Analysis
+# Bellabeat Google Data Analytics Capstone – Bellabeat Smart Device Analysis
 
 This project is the final Capstone for the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). It focuses on analyzing Fitbit user data to generate insights that could help Bellabeat, a high-tech wellness company, grow the user base of its Leaf smart device and companion app.
 
