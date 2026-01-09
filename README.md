@@ -6,13 +6,13 @@ This project is the final Capstone for the [Google Data Analytics Certificate](h
 
 ---
 
-## 📌 Business Task
+## Business Task
 
 Bellabeat wants to enhance its marketing strategy for the Leaf wearable by understanding how smart device users engage with wellness tracking features. This project analyzes Fitbit user behavior to inform design and re-engagement strategies for Bellabeat’s app.
 
 ---
 
-## 🧾 Dataset
+## Dataset
 
 Publicly available Fitbit data from 30 users over one month, collected via Amazon Mechanical Turk and shared on Kaggle:
 
@@ -21,7 +21,7 @@ Publicly available Fitbit data from 30 users over one month, collected via Amazo
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Language**: R
 - **Libraries**: dplyr, ggplot2, janitor, lubridate
@@ -31,7 +31,7 @@ Publicly available Fitbit data from 30 users over one month, collected via Amazo
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Users who consistently engaged in physical activity also showed lower sedentary time.
 - Drop-off in usage often happened around Day 15.
@@ -39,7 +39,7 @@ Publicly available Fitbit data from 30 users over one month, collected via Amazo
 
 ---
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 1. **Momentum-Based Progress Design**: Visualize trends over weeks instead of daily streaks.
 2. **Passive Engagement for Non-Screen Devices**: Weekly summaries instead of real-time alerts.
